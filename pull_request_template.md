@@ -1,1 +1,0 @@
-.github/PULL_REQUEST_TEMPLATE/template_vite_react_18.md
